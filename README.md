@@ -16,8 +16,8 @@ I enjoy building great software and training people to do the same.
 object Vikas {
  val name = "Vikas Kumar"
  
- val primarySkillset = "Android"
- val languages = listOf("Kotlin", "Java", "Python", "Javascript")
+ val primarySkillset = "Java"
+ val languages = listOf("Java", "Kotlin", "Python", "Javascript")
 
  val website = "https://theraavan.in/"
  val youtube = "https://www.youtube.com/channel/UCDx3RB_jYszVC-7dkcEkdkA"
